@@ -1,2 +1,1 @@
-# Desktop-Application
-a code on how to create a desktop app
+program on how to create an animation
